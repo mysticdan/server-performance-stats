@@ -23,13 +23,13 @@ Project Page Url: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects
 1. Clone this repository
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mysticdan/server-performance-stats.git
    ```
 
 2. Go into the project directory
 
    ```bash
-   cd <your-repo-folder>
+   cd server-performance-stats
    ```
 
 3. Make the script executable
